@@ -1,4 +1,3 @@
-﻿// 406_PS4_Q1
 // part(a) European Call option pricing using Binomial model
 // part(b) American Call option pricing using Binomial model
 // part(c) find and plot the optimal early exercise boundary for American Call option based on lowest stock price
